@@ -9,8 +9,8 @@ SQL ödevleri sırasıyla bu depoda bulunmaktadır.
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 
-Depo Linki:  
+### Depo Linki:  
 https://github.com/ozgecsr/patika.sql  
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
