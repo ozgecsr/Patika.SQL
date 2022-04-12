@@ -1,5 +1,3 @@
-@@ -1 +1,17 @@
-# patika.sql
 # MERHABALAR...  
 
 GitHub-SQL Projeme HOŞGELDİNİZ
